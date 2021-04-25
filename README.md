@@ -25,3 +25,6 @@
 
 # Actividades de simulación
 
+## Actividad 1. Juego de la vida 📋
+
+**Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea4/Simulaci%C3%B3n%20de%20propagaci%C3%B3n%20COVID-19.pdf)
