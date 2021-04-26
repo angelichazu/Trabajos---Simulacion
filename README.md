@@ -8,7 +8,7 @@
 
 ## Tarea 2: Regresión covid ⚙️
 
-* **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea4/SimulacionCovid.py)
+* **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/RegresionCovid/RegresionCovid.ipynb)
 * **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea4/Simulaci%C3%B3n%20de%20propagaci%C3%B3n%20COVID-19.pdf)
 
 
