@@ -28,3 +28,8 @@
 ## Actividad 1. Juego de la vida 📋
 
 **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Vida.pdf)
+
+# Pruebas de simulación
+
+## Prueba 1: Simulacion de dados 🚀
+**Archivos** - [Carpeta](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/Prueba)
