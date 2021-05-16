@@ -25,8 +25,8 @@
 
 ## Tarea 5: Graficas FIFA - Papermill ⚙️
 
-* **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea4/SimulacionCovid.py)
-* **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea4/Simulaci%C3%B3n%20de%20propagaci%C3%B3n%20COVID-19.pdf)
+* **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/TareaGraficos)
+* **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/TareaGraficos/TareaFifa.pdf)
 
 # Actividades de simulación
 
