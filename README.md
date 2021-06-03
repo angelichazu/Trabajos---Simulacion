@@ -28,6 +28,11 @@
 * **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/TareaGraficos)
 * **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/TareaGraficos/TareaFifa.pdf)
 
+## Tarea 6: Simulación de un AutoLavado 🔩
+
+* **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea6/Tarea6.ipynb)
+* **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea6/Tarea6.pdf)
+
 
 ## Tarea 7: Simulación vacunación en un recinto 📄
 
