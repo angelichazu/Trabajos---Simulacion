@@ -28,6 +28,12 @@
 * **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/TareaGraficos)
 * **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/TareaGraficos/TareaFifa.pdf)
 
+
+## Tarea 7: Simulación vacunación en un recinto 📄
+
+* **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea7/Tarea7.ipynb)
+* **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Tarea7/Tarea7.pdf)
+
 # Actividades de simulación
 
 ## Actividad 1. Juego de la vida 📋
