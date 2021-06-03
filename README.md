@@ -36,5 +36,13 @@
 
 # Pruebas de simulación
 
-## Prueba 1: Simulacion de dados 🚀
+## Prueba 1 🚀
 **Archivos** - [Carpeta](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/Prueba)
+
+
+# Examenes de simulación
+
+## 1er Interciclo 🚀
+
+* **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Examen1erInterciclo/examenSimu.ipynb)
+* **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Examen1erInterciclo/examenSimu.pdf)
