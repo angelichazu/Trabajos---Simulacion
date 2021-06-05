@@ -45,6 +45,10 @@
 
 **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Vida.pdf)
 
+## Actividad 2. Boletín 📋
+
+**Informe SimTraffic** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/SIM.pdf)
+
 # Pruebas de simulación
 
 ## Prueba 1 🚀
