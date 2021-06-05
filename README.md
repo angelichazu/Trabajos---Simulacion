@@ -49,6 +49,7 @@
 
 * **Informe SimTraffic** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/SIM.pdf)
 * **Cuaderno PIB** - [cuaderno](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Boletin/RegresionBoletin.ipynb)
+* **Informe PIB** - [informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Boletin/RegresionBoletin%20(1).pdf)
 
 # Pruebas de simulación
 
