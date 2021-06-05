@@ -47,8 +47,8 @@
 
 ## Actividad 2. Boletín 📋
 
-**Informe SimTraffic** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/SIM.pdf)
-**Cuaderno PIB** - [cuaderno](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Boletin/RegresionBoletin.ipynb)
+* **Informe SimTraffic** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/SIM.pdf)
+* **Cuaderno PIB** - [cuaderno](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Boletin/RegresionBoletin.ipynb)
 
 # Pruebas de simulación
 
