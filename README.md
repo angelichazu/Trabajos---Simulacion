@@ -51,6 +51,11 @@
 * **Cuaderno PIB** - [cuaderno](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Boletin/RegresionBoletin.ipynb)
 * **Informe PIB** - [informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Boletin/RegresionBoletin%20(1).pdf)
 
+## Projectos Interciclo 📋
+
+* **Enlace Blog** - [Enlance](https://angelichazu.wixsite.com/visioncomputadora)
+* **Enlance al video directo** - [Enlance](https://www.youtube.com/watch?v=-37yGbJ32do)
+
 # Pruebas de simulación
 
 ## Prueba 1 🚀
