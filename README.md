@@ -53,7 +53,7 @@
 
 ## Projectos Interciclo 📋
 
-* **Enlace Blog** - [Enlance](https://angelichazu.wixsite.com/visioncomputadora)
+* **Enlace Blog** - [Enlance](https://angelichazu.wixsite.com/simulacion)
 * **Enlance al video directo** - [Enlance](https://www.youtube.com/watch?v=-37yGbJ32do)
 
 # Pruebas de simulación
