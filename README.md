@@ -61,6 +61,9 @@
 ## Prueba 1 🚀
 **Archivos** - [Carpeta](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/Prueba)
 
+## Prueba 2 🚀
+**Archivos** - [Carpeta](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/Prueba2-SED)
+
 
 # Examenes de simulación
 
