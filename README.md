@@ -76,3 +76,4 @@
 
 * **Archivos** - [Enlance](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/NoticiasFalsa)
 * **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/NoticiasFalsa/NoticiasFalsas.pdf)
+* **Dataset** - [Enlace](https://www.mediafire.com/folder/0ct7c7582v0ed/data)
