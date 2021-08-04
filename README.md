@@ -71,3 +71,8 @@
 
 * **Codigo Fuente** - [Codigo](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Examen1erInterciclo/examenSimu.ipynb)
 * **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/Examen1erInterciclo/examenSimu.pdf)
+
+## Projecto Final 📋
+
+* **Archivos** - [Enlance](https://github.com/angelichazu/Trabajos---Simulacion/tree/main/NoticiasFalsa)
+* **Informe** - [Informe](https://github.com/angelichazu/Trabajos---Simulacion/blob/main/NoticiasFalsa/NoticiasFalsas.pdf)
